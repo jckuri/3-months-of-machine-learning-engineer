@@ -2,7 +2,7 @@
 
 # My pledge "3 months of Udacity" for the Machine Learning Engineer nanodegree, the AWS DeepRacer scholarship I won.
 
-## Day 1: November 19, 2019
+## Day 1: November 19, 2019 #30DaysofUdacity #PracticeMakesPerfect
 
 - I started the Machine Learning Engineer nanodegree.
 - I read the **Syllabus: Machine Learning Engineer Nanodegree Program**.
