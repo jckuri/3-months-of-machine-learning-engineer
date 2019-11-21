@@ -12,3 +12,13 @@
   **12. Solution: Optimizing - Common Books**
 
 ![Day 1](images/Day001.png)
+
+## Day 2: November 20, 2019 #30DaysofUdacity #PracticeMakesPerfect
+
+- I'm watching the video lectures and programming the Jupyter notebooks.
+- My current progress is:\
+  **Part 1: Software Engineering Fundamentals** (Progress 48%)\
+  **Lesson 3: Software Engineering Practices Pt II** (Progress 50%)\
+  **7. Test Driven Development and Data Science**
+
+![Day 2](images/Day002.png)
