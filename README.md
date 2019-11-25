@@ -56,3 +56,14 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 5](images/Day005.png)
+
+## Day 6: November 24, 2019 #30DaysofUdacity #PracticeMakesPerfect
+
+- I'm watching the video lectures and programming the Jupyter notebooks.
+- My current progress is:\
+  **Part 1: Software Engineering Fundamentals** (Progress 63%)\
+  **Lesson 4: Introduction to Object-Oriented Programming** (Progress 14%)\
+  **4. OOP Syntax**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 6](images/Day006.png)
