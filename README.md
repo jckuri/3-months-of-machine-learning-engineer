@@ -211,7 +211,7 @@
 
 ![Day 19](images/Day019.png)
 
-## Day 20: December 8, 2019 #30DaysofUdacity #PracticeMakesPerfect
+## Day 20: December 8, 2019 #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
 
 - I'm watching the video lectures and programming the Jupyter notebooks.
 - My current lecture is:\
