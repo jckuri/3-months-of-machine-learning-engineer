@@ -246,6 +246,7 @@
 
 ## Day 23: December 11, 2019 #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
 
+- I correctly generated the color features of the Traffic Light Classifier in the Intro to Self-Driving Cars nanodegree. I'm doing the certification to review this AI project.
 - I'm watching the video lectures and programming the Jupyter notebooks.
 - My current lecture is:\
   **Part 1: Software Engineering Fundamentals**\
