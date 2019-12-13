@@ -255,3 +255,15 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 23](images/Day023.jpeg)
+
+## Day 24: December 12, 2019 #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
+
+- I obtained my certification to review the Traffic Light Classifier of the Intro to Self-Driving Cars nanodegree. See the photo.
+- I'm watching the video lectures and programming the Jupyter notebooks.
+- My current lecture is:\
+  **Part 1: Software Engineering Fundamentals**\
+  **Lesson 4: Introduction to Object-Oriented Programming**\
+  **22. Virtual Environments**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 24](images/Day024.jpeg)
