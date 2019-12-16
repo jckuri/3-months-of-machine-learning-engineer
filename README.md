@@ -290,3 +290,15 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 26](images/Day026.png)
+
+## Day 27: December 15, 2019 #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
+
+- I just applied to the Ph.D. in Machine Learning.
+- I'm watching the video lectures and programming the Jupyter notebooks.
+- My current lecture is:\
+  **Part 1: Software Engineering Fundamentals**\
+  **Lesson 4: Introduction to Object-Oriented Programming**\
+  **25. Exercise: Binomial Class**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 27](images/Day027.jpg)
