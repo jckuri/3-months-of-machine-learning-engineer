@@ -404,3 +404,13 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 37](images/Day037.png)
+
+## Day 38: December 26, 2019 #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
+- I'm watching the video lectures and programming the Jupyter notebooks.
+- My current lecture is:\
+  **Part 2: Machine Learning in Production**\
+  **Lesson 1: Introduction to Deployment**\
+  **4. Machine Learning Workflow**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 38](images/Day038.png)
