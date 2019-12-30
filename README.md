@@ -435,7 +435,7 @@
 
 ![Day 40](images/Day040.png)
 
-## Day 40: December 28, 2019 #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
+## Day 40: December 29, 2019 #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
 - I'm watching the video lectures and programming the Jupyter notebooks.
 - My current lecture is:\
   **Part 2: Machine Learning in Production**\
