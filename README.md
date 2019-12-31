@@ -435,7 +435,7 @@
 
 ![Day 40](images/Day040.png)
 
-## Day 40: December 29, 2019 #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
+## Day 41: December 29, 2019 #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
 - I'm watching the video lectures and programming the Jupyter notebooks.
 - My current lecture is:\
   **Part 2: Machine Learning in Production**\
@@ -444,3 +444,13 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 41](images/Day041.png)
+
+## Day 42: December 30, 2019 #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
+- I'm watching the video lectures and programming the Jupyter notebooks.
+- My current lecture is:\
+  **Part 2: Machine Learning in Production**\
+  **Lesson 1: Introduction to Deployment**\
+  **8. Machine Learning Applications**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 42](images/Day042.png)
