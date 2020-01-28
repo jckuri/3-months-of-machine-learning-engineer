@@ -721,3 +721,13 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 69](images/Day069.jpg)
+
+## Day 70: January 27, 2020 #30DaysofUdacity
+- I'm watching the video lectures and programming the Jupyter notebooks.
+- My current lecture is:\
+  **Part 2: Machine Learning in Production**\
+  **Lesson 4. Hyperparameter Tuning**\
+  **4. Mini-Project: Tuning the Sentiment Analysis Model**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 70](images/Day070.jpg)
