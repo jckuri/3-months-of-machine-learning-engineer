@@ -751,3 +751,13 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 72](images/Day072.jpg)
+
+## Day 73: January 30, 2020 #30DaysofUdacity
+- I'm watching the video lectures and programming the Jupyter notebooks.
+- My current lecture is:\
+  **Part 2: Machine Learning in Production**\
+  **Lesson 5. Updating a Model**\
+  **1. Updating a Model**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 73](images/Day073.jpg)
