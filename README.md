@@ -817,3 +817,14 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 78](images/Day078.jpg)
+
+## Day 79: February 5, 2020 #30DaysofUdacity
+- I'm watching the video lectures and programming the Jupyter notebooks.
+- I passed the **Project: Deploy a Sentiment Analysis Model**. Great!
+- My current lecture is:\
+  **Part 3. Machine Learning, Case Studies**\
+  **Lesson 2. Payment Fraud Detection**\
+  **1. Fraud Detection**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 79](images/Day079.jpg)
