@@ -873,8 +873,8 @@
 
 ![Day 83](images/Day083.jpg)
 
-## Day 84: February 9, 2020 #30DaysofUdacity
-- On February 9, I have watched all the video lectures and I have programmed all the Jupyter notebooks in this nanodegree.
+## Day 84: February 10, 2020 #30DaysofUdacity
+- On February 10, I have watched all the video lectures and I have programmed all the Jupyter notebooks in this nanodegree.
 - I successfully passed the **Project 2: Plagiarism Detector**. See the photo.
 - Now I'm programming the **Capstone Project - Dog Breed Classifier**.
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
