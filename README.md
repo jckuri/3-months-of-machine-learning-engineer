@@ -925,3 +925,19 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 90](images/Day090.jpg)
+
+## Day 91: February 17, 2020 #30DaysofUdacity
+- On February 10, I have watched all the video lectures and I have programmed all the Jupyter notebooks in this nanodegree.
+- I finished programming the **Capstone Project - Dog Breed Classifier**.
+- I'm still writing the **proposal.pdf** and aswering the questions in the Jupyter notebook.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 91](images/Day091.jpg)
+
+## Day 92: February 18, 2020 #30DaysofUdacity
+- On February 10, I have watched all the video lectures and I have programmed all the Jupyter notebooks in this nanodegree.
+- I finished programming the **Capstone Project - Dog Breed Classifier**.
+- I'm still writing the **proposal.pdf** and aswering the questions in the Jupyter notebook.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 92](images/Day092.jpg)
